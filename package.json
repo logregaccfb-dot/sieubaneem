@@ -1,0 +1,14 @@
+{
+  "name": "hadesdeton-sunwin-taixiu",
+  "version": "1.0.0",
+  "description": "HadesDeTon - 84 model AI (21 main + 42 sub + 21 mini) dự đoán Tài Xỉu, lấy dữ liệu qua polling từ API gốc",
+  "main": "sao.js",
+  "scripts": {
+    "start": "node sao.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5",
+    "node-fetch": "^2.7.0"
+  }
+}
